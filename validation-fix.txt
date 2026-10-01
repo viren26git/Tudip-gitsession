@@ -1,0 +1,1 @@
+Critical login validation bug fixed
