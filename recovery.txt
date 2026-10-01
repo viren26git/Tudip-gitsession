@@ -1,1 +1,2 @@
 recovery test version 1
+recovery test version 2
